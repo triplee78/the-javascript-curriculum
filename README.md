@@ -46,10 +46,10 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - Specific questions are far more likely to get answered, than general/generic questions.
 
 ### Absolute Beginners
-- [ ] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
-- [ ] Type in `npm`, do you see `Usage: npm <command>`?
+- [ x] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
+- [ x] Type in `npm`, do you see `Usage: npm <command>`?
 - You're ready to start learning, using the self guided workshoppers. Good luck! 
-- [ ] Learn how to use Git and GitHub basics.
+- [ x] Learn how to use Git and GitHub basics.
   - Run `npm install -g git-it`
   - Then `git-it`
   - Additional help http://jlord.us/git-it/
