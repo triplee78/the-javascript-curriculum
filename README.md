@@ -24,9 +24,9 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
 - [x] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
 
 ### Pre-Requisites
-- [ ] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
-- [ ] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
-- [ ] Get a good text editor/IDE.
+- [ X] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
+- [ X] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
+- [ X] Get a good text editor/IDE.
   - Text Editor
     - [Atom](http://www.atom.io/)
     - [Sublime Text](http://www.sublimetext.com/3)
