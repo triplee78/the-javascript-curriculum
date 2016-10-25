@@ -53,13 +53,13 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - Run `npm install -g git-it`
   - Then `git-it`
   - Additional help http://jlord.us/git-it/
-- [ ] Learn JavaScript basics. No previous coding experience required.
+- [ x] Learn JavaScript basics. No previous coding experience required.
   - Run `npm install -g javascripting`
   - Then `javascripting`
   - Additional info https://github.com/sethvincent/javascripting
 
 ### Become a Better JavaScript Developer
-- [ ] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
+- [ x] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
   - Run `npm install -g scope-chains-closures`
 - [ ] Learn fundamental functional programming features of JavaScript in vanilla ES5.
   - `npm install -g functional-javascript-workshop` 
